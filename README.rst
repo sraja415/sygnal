@@ -11,10 +11,11 @@ http://matrix.org/docs/spec/#http-notification-protocol
 described the protocol that Matrix Home Servers use to send notifications to
 Push Gateways such as sygnal.
 
-Installation Tips:
+Installation Tips
 =================
 Once you install Sygnal, you must also install Flask, Pushbaby and GCM-Client
-Installing Flask:
+
+Installing Flask
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
 
 PushBaby
